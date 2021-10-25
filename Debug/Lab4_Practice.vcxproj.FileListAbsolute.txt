@@ -1,0 +1,2 @@
+C:\Users\200856629\OneDrive - UP Education\Desktop\cs103\CS103\member_2\FileWithGit\Debug\Lab4_Practice.exe
+C:\Users\200856629\OneDrive - UP Education\Desktop\cs103\CS103\member_2\FileWithGit\Debug\Lab4_Practice.pdb
